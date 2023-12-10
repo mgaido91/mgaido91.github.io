@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marco Gaido"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
-I am a Post-Doc at the [MT unit of FBK](https://mt.fbk.eu), located in the beautyful [Trento](https://www.google.com/search?q=Trento), in the middle of the Dolomites!
+I am a Post-Doc at the [MT unit of FBK](https://mt.fbk.eu), located in the beautiful [Trento](https://www.google.com/search?q=Trento), in the middle of the Dolomites!
 I obtained my PhD in Computer Science in 2023 at the University of Trento (Italy) with a thesis on Speech-to-Text translation and the MS in 2015 in computer engineering from the Politecnico di Torino (my hometown) with a thesis on text clustering. Before starting my PhD, I worked for 4 years in big data computing, becoming an [Apache Spark](https://github.com/apache/spark) contributor and [Apache Livy](https://github.com/apache/incubator-livy/) PPMC member.
 
 My resaerch interests include:
