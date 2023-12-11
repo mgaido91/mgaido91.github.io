@@ -12,20 +12,18 @@ redirect_from:
 Education
 ======
 
-<div class="feature__item">
-      <div class="archive__item">
-          <div class="archive__item-teaser">
-            <img src="/images/polito.svg" alt="">
-          </div>
+<div class="wrapper">
+  <span class="align-left" width="256">
+    <img src="/images/polito.svg" alt="">
+  </span>
 
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">M. S. in Computer Engineering</h2>
+  <span>
+    <h2 class="archive__item-title">M. S. in Computer Engineering</h2>
 
-            <div class="archive__item-excerpt">
-            Graduated in 2015 with 110. Thesis Title: Automation of the clustering process with Apache Spark platform.
-            </div>
-        </div>
-      </div>
+    <div>
+    Graduated in 2015 with 110. Thesis Title: Automation of the clustering process with Apache Spark platform.
+    </div>
+  </span>
 </div>
 
 <div class="feature__item">
