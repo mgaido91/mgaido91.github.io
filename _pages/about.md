@@ -16,7 +16,7 @@ My resaerch interests include:
  - speech/text translation (and everything related to this, such as subtitling);
  - deep learning;
  - automatic testing;
- - ... and as everyone who has the bad luck of working with me software quality and engineering!
+ - ... and, as everyone who had the bad luck of working with me knows very well, software quality and engineering!
 
 
 
