@@ -468,3 +468,15 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+
+
+.middot-divider::after {
+  content: '\00B7';
+}
+
+.middot-divider {
+  padding-right: 0.45em;
+  padding-left: 0.45em;
+  font-size: 32px;
+}
