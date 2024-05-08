@@ -109,7 +109,7 @@ redirect_from:
 
 <div class="wrapper">
   <span class="align-left" style="width:128px">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Hortonworks_logo.svg/1200px-Hortonworks_logo.svg.png" alt=""><br>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Hortonworks_logo.svg/1200px-Hortonworks_logo.svg.png" alt=""><br><br><br>
   </span>
 
   <span>
