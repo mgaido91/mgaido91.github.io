@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Marco Gaido"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+## 🧑🏻 Personal Information
+
+**EMAIL**:  marcogaido91@gmail.com
+**LANGUAGES**:  Italian (Mother tongue), English (C1, IELTS 7)	
+**DATE OF BIRTH**:  2nd March 1991
+**LINKEDIN**: [https://www.linkedin.com/in/marco-gaido-89b998a3](https://www.linkedin.com/in/marco-gaido-89b998a3)
+**GITHUB**: [https://github.com/mgaido91](https://github.com/mgaido91)
+**MEMBERSHIPS**: 	Apache Livy PPMC; Apache Spark and NiFi contributor	
+**INTERESTS**:  AI, speech translation, machine learning, big data
 
 ## 🧑🏻‍🎓 Education
 ======
@@ -19,7 +29,7 @@ redirect_from:
   </span>
 
   <span>
-    <h2 class="archive__item-title">PhD. in Information and Communication Technology</h2>
+    <h2 class="archive__item-title">Ph.D. in Information and Communication Technology</h2>
     <p style="margin:0px;font-style: italic;">University of Trento</p>
     <p style="margin:0px">Nov 2019 - Apr 2023<span class="middot-divider"></span>Trento, Italy</p>
     <p style="margin:0px">
