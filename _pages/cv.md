@@ -11,76 +11,7 @@ redirect_from:
 
 ----
 
-# 🧑🏻 Personal Information
-
-**📌 EMAIL**:  marcogaido91@gmail.com
-
-**📌 LANGUAGES**:  Italian (Mother tongue), English (C1, IELTS 7)	
-
-**📌 DATE OF BIRTH**:  2nd March 1991
-
-**📌 LINKEDIN**: [https://www.linkedin.com/in/marco-gaido-89b998a3](https://www.linkedin.com/in/marco-gaido-89b998a3)
-
-**📌 GITHUB**: [https://github.com/mgaido91](https://github.com/mgaido91)
-
-**📌 MEMBERSHIPS**: 	Apache Livy PPMC; Apache Spark and NiFi contributor	
-
-**📌 INTERESTS**:  AI, speech translation, machine learning, big data
-
-----
-
-# 🧑🏻‍🎓 Education
-
-
-<div class="wrapper">
-  <span class="align-left" style="width:128px">
-    <img src="/images/unitn.png" alt="">
-  </span>
-
-  <span>
-    <h2 class="archive__item-title">Ph.D. in Information and Communication Technology</h2>
-    <p style="margin:0px;font-style: italic;">University of Trento</p>
-    <p style="margin:0px">📅 Nov 2019 - Apr 2023 📍 Trento, Italy</p>
-    <p style="margin:0px">
-    Thesis Title: Direct Speech Translation Toward High-Quality, Inclusive, and Augmented Systems.
-    </p>
-  </span>
-</div>
-
-
-<div class="wrapper">
-  <span class="align-left" style="width:128px">
-    <img src="/images/polito.png" alt="">
-  </span>
-
-  <span>
-    <h2 class="archive__item-title">M. S. in Computer Engineering</h2>
-    <p style="margin:0px;font-style: italic;">Politecnico di Torino</p>
-    <p style="margin:0px">📅 Sep 2013 - Oct 2015 📍 Torino, Italy</p>
-    <p style="margin:0px">
-    110. Thesis Title: Automation of the clustering process with Apache Spark platform.
-    </p>
-  </span>
-</div>
-
-<div class="wrapper">
-  <span class="align-left" style="width:128px">
-    <img src="/images/polito.png" alt="">
-  </span>
-
-  <span>
-    <h2 class="archive__item-title">B. S. in Management and Engineering</h2>
-    <p style="margin:0px;font-style: italic;">Politecnico di Torino</p>
-    <p style="margin:0px">📅 Sep 2010 - Jul 2013 📍 Torino, Italy</p>
-    <p style="margin:0px">
-    110 cum Laude.
-    </p>
-  </span>
-</div>
-
-----
-
-# 🧑‍💻 Experience
+# 🧑‍💻 Work Experience
 
 <div class="wrapper">
   <span class="align-left" style="width:128px">
@@ -142,3 +73,57 @@ redirect_from:
     <p style="margin:0px">📅 Sep 2013 - Sep 2015 📍 Turin, Italy</p>
   </span>
 </div>
+
+
+
+----
+
+# 🧑🏻‍🎓 Education
+
+
+<div class="wrapper">
+  <span class="align-left" style="width:128px">
+    <img src="/images/unitn.png" alt="">
+  </span>
+
+  <span>
+    <h2 class="archive__item-title">Ph.D. in Information and Communication Technology</h2>
+    <p style="margin:0px;font-style: italic;">University of Trento</p>
+    <p style="margin:0px">📅 Nov 2019 - Apr 2023 📍 Trento, Italy</p>
+    <p style="margin:0px">
+    Thesis Title: Direct Speech Translation Toward High-Quality, Inclusive, and Augmented Systems.
+    </p>
+  </span>
+</div>
+
+
+<div class="wrapper">
+  <span class="align-left" style="width:128px">
+    <img src="/images/polito.png" alt="">
+  </span>
+
+  <span>
+    <h2 class="archive__item-title">M. S. in Computer Engineering</h2>
+    <p style="margin:0px;font-style: italic;">Politecnico di Torino</p>
+    <p style="margin:0px">📅 Sep 2013 - Oct 2015 📍 Torino, Italy</p>
+    <p style="margin:0px">
+    110. Thesis Title: Automation of the clustering process with Apache Spark platform.
+    </p>
+  </span>
+</div>
+
+<div class="wrapper">
+  <span class="align-left" style="width:128px">
+    <img src="/images/polito.png" alt="">
+  </span>
+
+  <span>
+    <h2 class="archive__item-title">B. S. in Management and Engineering</h2>
+    <p style="margin:0px;font-style: italic;">Politecnico di Torino</p>
+    <p style="margin:0px">📅 Sep 2010 - Jul 2013 📍 Torino, Italy</p>
+    <p style="margin:0px">
+    110 cum Laude.
+    </p>
+  </span>
+</div>
+
