@@ -9,17 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-## 🧑🏻 Personal Information
+🧑🏻 Personal Information
+======
 
 **EMAIL**:  marcogaido91@gmail.com
+
 **LANGUAGES**:  Italian (Mother tongue), English (C1, IELTS 7)	
+
 **DATE OF BIRTH**:  2nd March 1991
+
 **LINKEDIN**: [https://www.linkedin.com/in/marco-gaido-89b998a3](https://www.linkedin.com/in/marco-gaido-89b998a3)
+
 **GITHUB**: [https://github.com/mgaido91](https://github.com/mgaido91)
+
 **MEMBERSHIPS**: 	Apache Livy PPMC; Apache Spark and NiFi contributor	
+
 **INTERESTS**:  AI, speech translation, machine learning, big data
 
-## 🧑🏻‍🎓 Education
+
+
+🧑🏻‍🎓 Education
 ======
 
 
@@ -86,7 +95,7 @@ redirect_from:
 
 <div class="wrapper">
   <span class="align-left" style="width:128px">
-    <img src="/images/meta.png" alt="">
+    <img src="https://vincos.it/wp-content/uploads/2021/10/meta-logo-1.png" alt="">
   </span>
 
   <span>
@@ -104,7 +113,7 @@ redirect_from:
   <span>
     <h2 class="archive__item-title">R&D Software Engineer</h2>
     <p style="margin:0px;font-style: italic;">Hortonworks</p>
-    <p style="margin:0px">Jun 2017 - Dec 2018<span class="middot-divider"></span>Budapest, Hungary</p>
+    <p style="margin:0px">Jun 2017 - Dec 2018 ▪️ Budapest, Hungary</p>
   </span>
 </div>
 
