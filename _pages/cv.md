@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Marco Gaido"
+title: "MARCO GAIDO"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-🧑🏻 Personal Information
-======
+----
+
+# 🧑🏻 Personal Information
 
 **📌 EMAIL**:  marcogaido91@gmail.com
 
@@ -28,7 +29,7 @@ redirect_from:
 
 ----
 
-🧑🏻‍🎓 Education
+# 🧑🏻‍🎓 Education
 
 
 <div class="wrapper">
@@ -77,7 +78,9 @@ redirect_from:
   </span>
 </div>
 
-## 🧑‍💻 Experience
+----
+
+# 🧑‍💻 Experience
 
 <div class="wrapper">
   <span class="align-left" style="width:128px">
@@ -106,7 +109,7 @@ redirect_from:
 
 <div class="wrapper">
   <span class="align-left" style="width:128px">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Hortonworks_logo.svg/1200px-Hortonworks_logo.svg.png" alt=""></br>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Hortonworks_logo.svg/1200px-Hortonworks_logo.svg.png" alt=""><br>
   </span>
 
   <span>
