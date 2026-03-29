@@ -4,7 +4,7 @@ layout: archive
 permalink: /activities/
 ---
 
-# Projects and Grants
+## Projects and Grants
 
 - **Smarterp** - a CAI system based on novel direct speech translation that improves real-time interpretation by accurately handling named entities and domain-specific terminology;
 - **Amazon Research Grant** - Bias Mitigation and Gender Neutralization Techniques  for  Automatic Translation;
@@ -15,7 +15,7 @@ permalink: /activities/
 - **DVPS** - a project funded by the European Commission with the goal of developing an open-source toolkit to streamline the design, pre-training, fine-tuning, and modality expansion of MMFMs (Multi-Modal Foundation Models);
 - **LOST** - PI of a Large Scale Computing grant that targets the creation of Speech-to-text (S2T) Large Language Models (SpeechLLMs) capable of processing long audio files instead of small chunks, thereby making their usage more suitable for real-world scenarios.
 
-# Students Supervision
+## Students Supervision
 
 - **Lina Varella Conti** - PhD Co-Advisor (2023-present)
 - **Dhairya Suman** - PhD Co-Advisor (2025-present)
@@ -23,7 +23,7 @@ permalink: /activities/
 - **Dennis Fucci** - PhD Mentor (2021-2025)
 - **Sara Papi** - PhD Mentor (2020-2024)
 
-# Invited Talks and Panels
+## Invited Talks and Panels
 
 - **2023**
   - Talk at the ISCA SIGSLT Seminars - [Towards Augmented Speech Translation: Joint Speech Translation and Named Entity Recognition
@@ -35,9 +35,9 @@ permalink: /activities/
 - **2017**
   - [Silhouette: Birth of a new Apache Spark ML algorithm](/workspaces/mgaido91.github.io/_talks/2017-10-17-talk-1.md)
 
-# Conferences and Workshop
+## Conferences and Workshop
 
-## Organization
+### Organization
 
 - **2026**
   - *IWSLT* - Organizer
@@ -45,7 +45,7 @@ permalink: /activities/
 - **2025**
   - *MT Summit* - Research Track Chair
 
-## Shared Tasks
+### Shared Tasks
 
 - **2026**
   - *IWSLT* - Chair of the Model Compression Shared Task
@@ -57,11 +57,11 @@ permalink: /activities/
   - *IWSLT* - Organizer of the Instruction Following Shared Task
   - *WMT* - Organizer of the Instruction Following Shared Task
 
-## Program Committee
+### Program Committee
 
-- **ACL** (Conference) - Area Chair (2024-present) | Reviewer (2021-2023)
-- **EACL** (Conference) - Area Chair (2024-present) | Reviewer (2021-2023)
-- **EMNLP** (Conference) - Area Chair (2024-present) | Reviewer (2021-2023)
+- **ACL** (Conference) - Area Chair (2024-present); Reviewer (2021-2023)
+- **EACL** (Conference) - Area Chair (2024-present); Reviewer (2021-2023)
+- **EMNLP** (Conference) - Area Chair (2024-present); Reviewer (2021-2023)
 - **TACL** (Journal) - Reviewer (2023-present)
 - **TASLP** (Journal) - Reviewer (2023-present)
 - **INTERSPEECH** (Conference) - Reviewer (2023-present)
