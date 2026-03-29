@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Activities"
+    url: /activities/    
 
   - title: "CV"
-    url: /cv/
+    url: https://github.com/mgaido91/mgaido91.github.io/blob/0f6f673e845b7e109fdc814c15443fefa87e02eb/assets/CV.pdf
