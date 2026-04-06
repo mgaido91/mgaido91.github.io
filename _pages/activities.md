@@ -50,12 +50,12 @@ permalink: /activities/
 - **2026**
   - *IWSLT* - Chair of the Model Compression Shared Task
   - *IWSLT* - Organizer of the Instruction Following Shared Task
-  - *WMT* - Organizer of the Instruction Following Shared Task
+  - *WMT* - Organizer of the Model Compression Shared Task
 
 - **2025**
   - *IWSLT* - Chair of the Model Compression Shared Task
   - *IWSLT* - Organizer of the Instruction Following Shared Task
-  - *WMT* - Organizer of the Instruction Following Shared Task
+  - *WMT* - Organizer of the Model Compression Shared Task
 
 ### Program Committee
 
@@ -68,5 +68,5 @@ permalink: /activities/
 - **COLM** (Conference) - Reviewer (2024-present)
 - **ICASSP** (Conference) - Reviewer (2023-present)
 - **ASRU** (Conference) - Reviewer (2023-present)
-- **LREC** (Conference) - Reviwer (2024-present)
+- **LREC** (Conference) - Reviewer (2024-present)
 - **COLING** (Conference) - Reviewer (2024-present)
