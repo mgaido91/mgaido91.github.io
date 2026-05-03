@@ -30,10 +30,10 @@ permalink: /activities/
 ](https://www.youtube.com/watch?v=g2fIcjVWgXY)
 
 - **2019**
-  - [Deep dive in Spark code generation](/workspaces/mgaido91.github.io/_talks/2019-03-12-talk-2.md)
+  - [Deep dive in Spark code generation](/talks/2019-03-12-talk-2)
 
 - **2017**
-  - [Silhouette: Birth of a new Apache Spark ML algorithm](/workspaces/mgaido91.github.io/_talks/2017-10-17-talk-1.md)
+  - [Silhouette: Birth of a new Apache Spark ML algorithm](/talks/2017-10-17-talk-1)
 
 ## Conferences and Workshop
 
